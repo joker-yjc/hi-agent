@@ -1,0 +1,18 @@
+{
+  "name": "stage-5-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joke_yao",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ai": "^6.0.143",
+    "zod": "^4.3.6",
+    "shared-utils": "workspace:*"
+  }
+}

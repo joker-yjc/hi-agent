@@ -1,0 +1,17 @@
+{
+  "name": "stage-4-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joke_yao",
+  "license": "ISC",
+  "dependencies": {
+    "ai": "^6.0.143",
+    "cheerio": "^1.2.0",
+    "shared-utils": "workspace:*"
+  }
+}

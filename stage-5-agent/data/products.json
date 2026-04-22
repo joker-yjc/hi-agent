@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro 16",
+    "category": "笔记本电脑",
+    "price": 19999,
+    "stock": 15,
+    "brand": "Apple",
+    "specs": {
+      "cpu": "M3 Pro",
+      "ram": "18GB",
+      "storage": "512GB SSD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "category": "手机",
+    "price": 8999,
+    "stock": 50,
+    "brand": "Apple",
+    "specs": {
+      "cpu": "A17 Pro",
+      "ram": "8GB",
+      "storage": "256GB"
+    }
+  },
+  {
+    "id": 3,
+    "name": "ThinkPad X1 Carbon",
+    "category": "笔记本电脑",
+    "price": 12999,
+    "stock": 8,
+    "brand": "Lenovo",
+    "specs": {
+      "cpu": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro 2",
+    "category": "耳机",
+    "price": 1899,
+    "stock": 100,
+    "brand": "Apple",
+    "specs": {
+      "type": "入耳式",
+      "noise_cancellation": true,
+      "battery": "6小时"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 15",
+    "category": "笔记本电脑",
+    "price": 15999,
+    "stock": 0,
+    "brand": "Dell",
+    "specs": {
+      "cpu": "Intel Core i9",
+      "ram": "32GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 6,
+    "name": "小米14",
+    "category": "手机",
+    "price": 3999,
+    "stock": 200,
+    "brand": "Xiaomi",
+    "specs": {
+      "cpu": "骁龙8 Gen3",
+      "ram": "12GB",
+      "storage": "256GB"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sony WH-1000XM5",
+    "category": "耳机",
+    "price": 2499,
+    "stock": 30,
+    "brand": "Sony",
+    "specs": {
+      "type": "头戴式",
+      "noise_cancellation": true,
+      "battery": "30小时"
+    }
+  },
+  {
+    "id": 8,
+    "name": "iPad Pro 12.9",
+    "category": "平板",
+    "price": 8999,
+    "stock": 25,
+    "brand": "Apple",
+    "specs": {
+      "cpu": "M2",
+      "ram": "8GB",
+      "storage": "128GB"
+    }
+  }
+]

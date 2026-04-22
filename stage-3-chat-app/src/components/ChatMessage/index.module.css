@@ -1,0 +1,91 @@
+/* 消息行：控制对齐方向 */
+.messageRow {
+  display: flex;
+  gap: 8px;
+  margin: 16px 0;
+  align-items: flex-start;
+}
+
+.userRow {
+  flex-direction: row-reverse; /* 用户消息靠右 */
+}
+
+.aiRow {
+  flex-direction: row; /* AI 消息靠左 */
+}
+
+/* 角色标签 */
+.roleLabel {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  background: var(--label-bg);
+  color: var(--label-color);
+}
+
+.userRow .roleLabel {
+  --label-bg: #3b82f6;
+  --label-color: #fff;
+}
+
+.aiRow .roleLabel {
+  --label-bg: var(--ai-label-bg);
+  --label-color: var(--ai-label-color);
+}
+
+/* 消息气泡 */
+.bubble {
+  max-width: 75%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+}
+
+.userBubble {
+  background: var(--user-bubble-bg);
+  color: var(--user-bubble-color);
+  border-bottom-right-radius: 4px; /* 靠近头像的角更小 */
+}
+
+.aiBubble {
+  background: var(--ai-bubble-bg);
+  color: var(--ai-bubble-color);
+  border-bottom-left-radius: 4px;
+}
+
+.userText {
+  margin: 0;
+}
+
+/* 代码块 */
+.codeBlock {
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 8px 0;
+}
+
+/* Markdown 内容基础样式 */
+.aiBubble p {
+  margin: 0 0 8px;
+}
+.aiBubble p:last-child {
+  margin-bottom: 0;
+}
+.aiBubble ul,
+.aiBubble ol {
+  margin: 4px 0;
+  padding-left: 20px;
+}
+.aiBubble code:not(pre code) {
+  background: var(--inline-code-bg);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}

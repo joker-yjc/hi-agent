@@ -1,0 +1,23 @@
+{
+  "name": "shared-utils",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./config": "./src/config.ts",
+    "./deepseek": "./src/deepseek.ts",
+    "./ollama": "./src/ollama.ts",
+    "./openai": "./src/openai.ts",
+    "./qwen": "./src/qwen.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/alibaba": "^1.0.13",
+    "@ai-sdk/deepseek": "^2.0.26",
+    "@ai-sdk/openai": "^3.0.52",
+    "dotenv": "^17.3.1",
+    "ollama-ai-provider-v2": "^3.5.0"
+  }
+}
