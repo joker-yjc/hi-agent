@@ -144,6 +144,7 @@ const result = await generateText({
 | 文件 | 作用 |
 |------|------|
 | `学习计划.md` | 完整的学习路线规划 |
+| `handbook/` | **AI 开发知识手册**（25 章 + 速查表，7 个部分覆盖 Day 1-37 全部学习内容） |
 | `知识总结/README.md` | Day 1-16 知识点归纳（按阶段组织） |
 | `packages/shared-utils/src/` | 模型 Provider 统一配置 |
 | `stage-3-chat-app/AGENTS.md` | stage-3 专属开发指南 |
