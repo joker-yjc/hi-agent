@@ -210,4 +210,4 @@ const { embedding } = await embed({
 
 ---
 
-| [← 上一章：多模型切换与对话历史](../chapter06/) | [下一章：文档分块与索引建立 →](../chapter08/) |
+| [← 上一章：多模型切换与对话历史](../chapter06/README.md) | [下一章：文档分块与索引建立 →](../chapter08/README.md) |

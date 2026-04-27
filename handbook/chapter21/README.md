@@ -299,4 +299,4 @@ export async function POST(req: Request) {
 
 ---
 
-| [← 上一章：多模态 — 图片生成](../chapter20/) | [下一章：多 Agent 编排调度 →](../chapter22/) |
+| [← 上一章：多模态 — 图片生成](../chapter20/README.md) | [下一章：多 Agent 编排调度 →](../chapter22/README.md) |

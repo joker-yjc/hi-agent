@@ -162,4 +162,4 @@ LLM 不是按"字"或"单词"读文本的，是按 **Token** 读。一个 Token 
 
 ---
 
-|  | [下一章：Prompt Engineering 实战 →](../chapter02/) |
+|  | [下一章：Prompt Engineering 实战 →](../chapter02/README.md) |

@@ -214,4 +214,4 @@ const messagesForLLM = [
 
 ---
 
-| [← 上一章：构建实用 Agent](../chapter11/) | [下一章：Agent 记忆系统（长期记忆）→](../chapter13/) |
+| [← 上一章：构建实用 Agent](../chapter11/README.md) | [下一章：Agent 记忆系统（长期记忆）→](../chapter13/README.md) |

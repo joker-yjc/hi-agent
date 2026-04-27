@@ -244,4 +244,4 @@ export async function POST(req: NextRequest) {
 
 ---
 
-| [← 上一章：文档分块与索引建立](../chapter08/) | [下一章：Agent 基础与 Tool Calling →](../chapter10/) |
+| [← 上一章：文档分块与索引建立](../chapter08/README.md) | [下一章：Agent 基础与 Tool Calling →](../chapter10/README.md) |

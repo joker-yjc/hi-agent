@@ -276,4 +276,4 @@ DALL-E 返回的 URL 通常在 1 小时后过期。如果你把 URL 存到数据
 
 ---
 
-| [← 上一章：多模态 — 图片理解](../chapter19/) | [下一章：AI 安全基础 →](../chapter21/) |
+| [← 上一章：多模态 — 图片理解](../chapter19/README.md) | [下一章：AI 安全基础 →](../chapter21/README.md) |

@@ -244,4 +244,4 @@ console.error('正在加载数据...')
 
 ---
 
-| [← 上一章：Agent 框架对比与 Skill 设计](../chapter14/) | [下一章：MCP Server 开发实战 →](../chapter16/) |
+| [← 上一章：Agent 框架对比与 Skill 设计](../chapter14/README.md) | [下一章：MCP Server 开发实战 →](../chapter16/README.md) |

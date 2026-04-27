@@ -186,4 +186,4 @@ const systemPrompt = readFileSync('./prompts/web-agent.md', 'utf-8')
 
 ---
 
-| [← 上一章：Agent 基础与 Tool Calling](../chapter10/) | [下一章：Agent 记忆系统（短期记忆）→](../chapter12/) |
+| [← 上一章：Agent 基础与 Tool Calling](../chapter10/README.md) | [下一章：Agent 记忆系统（短期记忆）→](../chapter12/README.md) |

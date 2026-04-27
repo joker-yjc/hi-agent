@@ -179,4 +179,4 @@ skill: planning-with-files
 
 ---
 
-| [← 上一章：Agent 记忆系统（长期记忆）](../chapter13/) | [下一章：MCP 协议深入理解 →](../chapter15/) |
+| [← 上一章：Agent 记忆系统（长期记忆）](../chapter13/README.md) | [下一章：MCP 协议深入理解 →](../chapter15/README.md) |

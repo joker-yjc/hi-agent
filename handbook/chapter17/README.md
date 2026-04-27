@@ -274,4 +274,4 @@ export async function POST(req: NextRequest) {
 
 ---
 
-| [← 上一章：MCP Server 开发实战](../chapter16/) | [下一章：成本控制与 Token 优化 →](../chapter18/) |
+| [← 上一章：MCP Server 开发实战](../chapter16/README.md) | [下一章：成本控制与 Token 优化 →](../chapter18/README.md) |

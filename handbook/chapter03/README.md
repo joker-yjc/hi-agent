@@ -240,4 +240,4 @@ ALIBABA_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
 
 ---
 
-| [← 上一章：Prompt Engineering 实战](../chapter02/) | [下一章：搭建最小 Chat 应用 →](../chapter04/) |
+| [← 上一章：Prompt Engineering 实战](../chapter02/README.md) | [下一章：搭建最小 Chat 应用 →](../chapter04/README.md) |

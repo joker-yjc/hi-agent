@@ -167,4 +167,4 @@ CoT 对 GPT-4o-mini 等小模型的提升尤其明显。
 
 ---
 
-| [← 上一章：理解大语言模型](../chapter01/) | [下一章：Vercel AI SDK 核心 API →](../chapter03/) |
+| [← 上一章：理解大语言模型](../chapter01/README.md) | [下一章：Vercel AI SDK 核心 API →](../chapter03/README.md) |

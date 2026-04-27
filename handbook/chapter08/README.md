@@ -222,4 +222,4 @@ function search(query: string, index: ChunkIndex[], topK: number = 3) {
 
 ---
 
-| [← 上一章：Embedding 与向量基础](../chapter07/) | [下一章：RAG 完整管道 →](../chapter09/) |
+| [← 上一章：Embedding 与向量基础](../chapter07/README.md) | [下一章：RAG 完整管道 →](../chapter09/README.md) |

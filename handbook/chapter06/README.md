@@ -230,4 +230,4 @@ Next.js 构建时在服务端执行组件代码，`localStorage` 未定义。
 
 ---
 
-| [← 上一章：消息渲染与交互体验](../chapter05/) | [下一章：Embedding 与向量基础 →](../chapter07/) |
+| [← 上一章：消息渲染与交互体验](../chapter05/README.md) | [下一章：Embedding 与向量基础 →](../chapter07/README.md) |

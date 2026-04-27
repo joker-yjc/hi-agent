@@ -235,4 +235,4 @@ CSS 关键帧：
 
 ---
 
-| [← 上一章：搭建最小 Chat 应用](../chapter04/) | [下一章：多模型切换与对话历史 →](../chapter06/) |
+| [← 上一章：搭建最小 Chat 应用](../chapter04/README.md) | [下一章：多模型切换与对话历史 →](../chapter06/README.md) |
