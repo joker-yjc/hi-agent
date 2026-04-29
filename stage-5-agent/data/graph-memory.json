@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "小明",
+      "type": "person",
+      "observations": [
+        "在字节跳动工作"
+      ]
+    },
+    {
+      "name": "字节跳动",
+      "type": "company",
+      "observations": []
+    },
+    {
+      "name": "张三",
+      "type": "person",
+      "observations": [
+        "是小明的经理"
+      ]
+    },
+    {
+      "name": "AI项目",
+      "type": "project",
+      "observations": [
+        "小明和张三正在参与"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "from": "小明",
+      "to": "字节跳动",
+      "type": "works_at"
+    },
+    {
+      "from": "张三",
+      "to": "小明",
+      "type": "manager_of"
+    },
+    {
+      "from": "小明",
+      "to": "AI项目",
+      "type": "works_on"
+    },
+    {
+      "from": "张三",
+      "to": "AI项目",
+      "type": "works_on"
+    }
+  ],
+  "updatedAt": 1777439229946
+}
